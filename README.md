@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A simple way to welcome users
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Combines 3 plugins new-issue-welcome, new-pr-welcome, and first-pr-merge
 
 ## Getting started
 
